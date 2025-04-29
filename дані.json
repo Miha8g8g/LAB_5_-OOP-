@@ -1,0 +1,24 @@
+[
+  {
+    "name": "name",
+    "position": "position",
+    "department": "department",
+    "base_salary": 15000,
+    "bonus": 2000,
+    "production": {
+      "2025-03": 120,
+      "2025-04": 130
+    }
+  },
+  {
+    "name": "Олена Іванова",
+    "position": "Менеджер",
+    "department": "Продажі",
+    "base_salary": 18000,
+    "bonus": 3000,
+    "production": {
+      "2025-03": 50,
+      "2025-04": 60
+    }
+  }
+]
